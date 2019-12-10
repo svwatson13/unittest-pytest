@@ -1,8 +1,7 @@
 # TDD and Unit Testing 
 
 ## Unittest and pytest
-### On command line make sure you are in the right file and 
-    the files/testfunctions start witht the word test and then:
+### On command line make sure you are in the right file and the files/testfunctions start witht the word test and then:
 ### for unittest run  
 ````
 python -m unittest
