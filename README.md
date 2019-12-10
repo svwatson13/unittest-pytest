@@ -1,5 +1,15 @@
 # TDD and Unit Testing 
+
 ## Unittest and pytest
+### On command line make sure you are in the right file and them:
+### for unittest run  
+````
+python -m unittest
+````
+### for pytest run
+````
+pytest
+````
 
 ### TDD
 
